@@ -1,13 +1,13 @@
-#Tiny ML benchmark
+# Tiny ML benchmark
 
-##1. Inference time
+## 1. Inference time
 
 Inference time is shown to the serial monitor. This time is captured every time a new command is spoken. 
 ![img_5.png](img_5.png)
 
 For the sample use case the tame taken for each inference is ~72 ms.
 
-##2. Static Size and code size
+## 2. Static Size and code size
 
 To capture the code size and static 
 1. First Enable verbose ouput in the Preferences Pane. 
