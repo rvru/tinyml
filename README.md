@@ -3,6 +3,7 @@
 ## 1. Inference time
 
 Inference time is shown to the serial monitor. This time is captured every time a new command is spoken. 
+
 ![img_5.png](img_5.png)
 
 For the sample use case the tame taken for each inference is ~72 ms.
